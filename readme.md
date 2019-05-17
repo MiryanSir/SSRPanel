@@ -29,5 +29,4 @@ Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 - [@cz88](http://www.cz88.net/index.shtml)
 - [@ip.sb](https://www.ip.sb)
 - [@ipip](https://www.ipip.net)
-
-这个是fork自别人，我并不是作者。
+这个项目是fork自别人，我并不是项目的开发者。
