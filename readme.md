@@ -30,3 +30,4 @@ Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 - [@ip.sb](https://www.ip.sb)
 - [@ipip](https://www.ipip.net)
 
+这个是fork自别人，我并不是作者。
