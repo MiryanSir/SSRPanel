@@ -1,9 +1,6 @@
 # SSRPanel
 Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 
-- [Demo](https://demo.ssrpanel.com)
-- [Telegram](https://t.me/ssrpanel)
-- [Issues](https://github.com/ssrpanel/SSRPanel/issues)
 - [WIKI](https://github.com/ssrpanel/SSRPanel/wiki)
 
 ## Requirements
@@ -33,6 +30,3 @@ Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 - [@ip.sb](https://www.ip.sb)
 - [@ipip](https://www.ipip.net)
 
-## License
-
-SSRPanel is open-sourced software licensed under the MIT license.
